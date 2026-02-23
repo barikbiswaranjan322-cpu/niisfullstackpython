@@ -1,4 +1,8 @@
-print("enter the two no")
-a=float(input())
-b=float(input())
-print("add=",a+b)
+
+print("enter the square side")
+a=int(input())
+print("side=",a)
+ar=a*a
+print("area=",ar)
+pr=4*a
+print("perimeter=",pr)

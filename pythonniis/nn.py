@@ -1,1 +1,13 @@
-print("hhhh")
+# wap take rectangle length and breath from keyboard display length breadth area and perimeter.....
+
+print("enter the rectangle length")
+L=int(input())
+print("enter the rectangle breadth")
+B=int(input())
+ar=L*B
+pr=2*(L+B)
+print("length=",L)
+print("breadth=",B)
+print("area=",ar)
+print("perimeter=",pr)
+
